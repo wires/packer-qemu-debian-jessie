@@ -1,5 +1,9 @@
 ## Packer qemu template for Debian 8 (Jessie)
-Creates Debian 8 minimal qcow2 image using QEMU and KVM
+Creates Debian 9 minimal qcow2 image using QEMU and KVM
+
+preseed d-i file here
+
+https://gist.github.com/PHLAK/e320eb289a2d5673af3a
 
 ### Default Configuration
 * 4 Cores
